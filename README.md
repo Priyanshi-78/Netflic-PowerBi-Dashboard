@@ -76,4 +76,4 @@ Through this project, I learned:
 **Priyanshi Pandey**
 
 - GitHub: https://github.com/Priyanshi-78
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: https://www.linkedin.com/in/priyanshi-pandey-6b6a9132a
